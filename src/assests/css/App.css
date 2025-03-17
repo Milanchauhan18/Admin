@@ -1,0 +1,108 @@
+body
+{
+    background-color: #f5f5f5 ;
+    font-size: 14px;
+    font-family: "Montserrat", serif;
+}
+h1,h2,h3,h4,h5,h6,ul,ol
+{
+    margin: 0 !important;
+    padding: 0;
+}
+.dropdown-item,.nav-link
+{
+    font-size: 14px;
+}
+.page-heading
+{
+    font-size: 18px;
+    font-weight: 600;
+}
+.heading-panel
+{
+    background-color: #e0e0e0;
+    margin-bottom: 20px;
+    padding: 10px 0;
+}
+.card-custom-heading
+{
+    font-size: 16px;
+}
+table
+{
+    font-size: 14px;
+}
+.actions button                             
+{
+    font-size: 12px;
+}
+.lablename
+{
+    font-weight: 500;
+}
+.form-placeholder
+{
+    font-size: 15px;
+}
+.description-input
+{
+    width: 30%;
+}
+
+/* Detail page */
+
+.c-width
+{
+    width: 50%;
+    margin: 0 auto;     
+}
+.heading
+{
+    text-align:center   ;
+}
+.P_detail
+{
+    font-family: "Montserrat", serif;
+    position: relative;  
+     padding: 50px;
+}
+.Product-detail
+{ 
+    width: 100%;
+    text-align: center;
+}
+.sub-heading
+{
+    margin-top: 10%;
+}
+.customtab ul
+{
+    margin: 0 auto !important;
+}
+.tab-pane
+{
+    font-family: "Montserrat", serif;
+    font-size: 20px;
+
+}
+.c-width
+{
+    width: 70%;         
+    border: solid black;
+    border-radius: 15px;
+}
+#mymenu .nav-item ul
+{   
+    color: black;
+    border:  solid;
+    font-size: 20px;
+}       
+
+#mymenu     .nav-item
+{
+    border: solid black;
+    border-radius: 0px;
+    border-top:none;
+    font-family: "Montserrat", serif;
+}
+    
